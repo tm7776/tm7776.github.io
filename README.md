@@ -1,3 +1,3 @@
 # Test Website
 
-Website available at https://www.tm7776.github.io
+Website available at https://tm7776.github.io
